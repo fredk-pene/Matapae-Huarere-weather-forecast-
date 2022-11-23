@@ -21,7 +21,7 @@ function App() {
       setLocation('')
     }
   }
-
+  // TODO add celsius to fahrenheit button
   return (
     <>
       <div className="card">
